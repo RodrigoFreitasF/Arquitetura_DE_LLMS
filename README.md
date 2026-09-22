@@ -51,6 +51,5 @@ Ao final da monitoria, espera-se que o participante seja capaz de:
 - Compreender os fundamentos de RAG;
 - Integrar essas diferentes capacidades em uma aplicação;
 - Acompanhar a evolução de uma arquitetura de IA de ponta a ponta.
-- Criar um sistema capaz de realizar o fluxo abaixo:
 
 > LLM, contexto, ferramentas, MCP, agentes e RAG formam camadas diferentes de um mesmo sistema.
