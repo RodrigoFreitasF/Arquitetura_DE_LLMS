@@ -23,6 +23,9 @@ Thumbs.db
 tmp/
 .codex-finalizer/
 *.validation.json
+.codex-build/
+_introdução/
+output/
 
 # Planejamento
 Planejamento/
